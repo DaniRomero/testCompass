@@ -9303,7 +9303,7 @@
               "style": "simple",
               "schema": {
                   "type": "string",
-                  "example": "DAO_PB, DAO_PD, WCR, WCR_Console, PCAS, MIBANCO, IVR, PICS, CLJ"
+                  "enum": ["DAO_PB", "DAO_PD", "WCR", "WCR_Console", "PCAS", "MIBANCO", "IVR", "PICS", "CLJ"]
               }
           },
           "LastStmtDt": {
